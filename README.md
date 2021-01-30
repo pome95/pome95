@@ -1,5 +1,5 @@
 ---
-![header](https://capsule-render.vercel.app/api?type=soft&color=&height=300&section=header&text=Junho%20Han&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=&height=300&section=header&text=Junho%20Han&fontSize=50&animation=twinkling)
 <h3 align="center">
   하나 하나 시작하는 IT
 </h3>
