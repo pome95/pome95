@@ -1,4 +1,4 @@
-### Hi there 👋
+### 하나 하나 시작하는 IT
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpome95&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pome95)](https://github.com/pome95/github-readme-stats)
