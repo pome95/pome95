@@ -12,6 +12,8 @@
 
 ### Interested In
 
+[![python Badge](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&link=https://www.python.org/)](https://www.python.org/)
+
 <!--
 **pome95/pome95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
