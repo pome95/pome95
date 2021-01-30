@@ -14,7 +14,7 @@
 
 [![python Badge](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&link=https://www.python.org/)](https://www.python.org/)
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&link=https://www.javascript.com/)](https://www.javascript.com/)
-[![nodejs Badge](https://img.shields.io/badge/-Node.js-%23339933style=flat-square&link=https://nodejs.org/ko/)](https://nodejs.org/ko/)
+[![nodejs Badge](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&link=https://nodejs.org/ko/)](https://nodejs.org/ko/)
 [![aws Badge](https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&link=https://aws.amazon.com/ko/?nc2=h_lg)](https://aws.amazon.com/ko/?nc2=h_lg)
 [![docker Badge](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&link=https://www.docker.com/)](https://www.docker.com/)
 
