@@ -1,7 +1,9 @@
+<div align=center>
+
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=&height=100&section=header&text=하나%20하나%20시작하는%20IT&fontSize=40&animation=twinkling)
 
-<div align=center>
+
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://pome95.github.io/)](https://pome95.github.io/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wnsgh8589@gmail.com)](mailto:wnsgh8589@gmail.com) [![Kakao Badge](https://img.shields.io/badge/-Kakao-%23FFCD00?style=flat-square&link=mailto:pome95@kakao.com)](mailto:pome95@kakao.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpome95&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -11,7 +13,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pome95&show_icons=true&theme=tokyonight)  
 
-</div>
 
 ---
 
@@ -25,6 +26,8 @@
 [![serverless Badge](https://img.shields.io/badge/-Serverless-%23FD5750?style=flat-square&logo=serverless&logoColor=white&link=https://www.serverless.com/)](https://www.serverless.com/) &nbsp;
 [![html Badge](https://img.shields.io/badge/-Html-%23E34F26?style=flat-square&logo=html5&logoColor=white&link=https://www.w3.org/)](https://www.w3.org/) &nbsp;
 [![css Badge](https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=CSS3&logoColor=white&link=https://www.w3.org/Style/CSS/Overview.en.html)](https://www.w3.org/Style/CSS/Overview.en.html) &nbsp;
+
+</div>
 
 <!--
 **pome95/pome95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
