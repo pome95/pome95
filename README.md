@@ -27,7 +27,7 @@
 [![html Badge](https://img.shields.io/badge/-Html-%23E34F26?style=flat-square&logo=html5&logoColor=white&link=https://www.w3.org/)](https://www.w3.org/) &nbsp;
 [![css Badge](https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=CSS3&logoColor=white&link=https://www.w3.org/Style/CSS/Overview.en.html)](https://www.w3.org/Style/CSS/Overview.en.html) &nbsp;
 [![jekyll Badge](https://img.shields.io/badge/-Jekyll-%23CC0000?style=flat-square&logo=jekyll&logoColor=white&link=http://jekyllrb-ko.github.io/)](http://jekyllrb-ko.github.io/) &nbsp;
-
+[![ubuntu Badge](https://img.shields.io/badge/-Ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=white&link=https://ubuntu.com/)](https://ubuntu.com/) &nbsp;
 
 
 
