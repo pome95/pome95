@@ -20,7 +20,7 @@
 [![python Badge](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/)](https://www.python.org/) &nbsp;
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&link=https://www.javascript.com/)](https://www.javascript.com/) &nbsp;
 [![nodejs Badge](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white&link=https://nodejs.org/ko/)](https://nodejs.org/ko/) &nbsp;
-[![aws Badge](https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=Amazon%20aws&logoColor=white&link=https://aws.amazon.com/ko/?nc2=h_lg)](https://aws.amazon.com/ko/?nc2=h_lg)  
+[![aws Badge](https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=Amazon%20aws&logoColor=white&link=https://aws.amazon.com/ko/?nc2=h_lg)](https://aws.amazon.com/ko/?nc2=h_lg)
 [![docker Badge](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=Docker&logoColor=white&link=https://www.docker.com/)](https://www.docker.com/) &nbsp;
 [![kubernetes Badge](https://img.shields.io/badge/-Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=white&link=https://kubernetes.io/)](https://kubernetes.io/) &nbsp;
 [![serverless Badge](https://img.shields.io/badge/-Serverless-%23FD5750?style=flat-square&logo=serverless&logoColor=white&link=https://www.serverless.com/)](https://www.serverless.com/) &nbsp;
