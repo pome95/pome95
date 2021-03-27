@@ -23,7 +23,6 @@
 [![aws Badge](https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=Amazon%20aws&logoColor=white&link=https://aws.amazon.com/ko/?nc2=h_lg)](https://aws.amazon.com/ko/?nc2=h_lg) &nbsp;
 [![docker Badge](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=Docker&logoColor=white&link=https://www.docker.com/)](https://www.docker.com/) &nbsp;  
 [![kubernetes Badge](https://img.shields.io/badge/-Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=white&link=https://kubernetes.io/)](https://kubernetes.io/) &nbsp;
-[![serverless Badge](https://img.shields.io/badge/-Serverless-%23FD5750?style=flat-square&logo=serverless&logoColor=white&link=https://www.serverless.com/)](https://www.serverless.com/) &nbsp;
 [![html Badge](https://img.shields.io/badge/-Html-%23E34F26?style=flat-square&logo=html5&logoColor=white&link=https://www.w3.org/)](https://www.w3.org/) &nbsp;
 [![css Badge](https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=CSS3&logoColor=white&link=https://www.w3.org/Style/CSS/Overview.en.html)](https://www.w3.org/Style/CSS/Overview.en.html) &nbsp;
 [![jekyll Badge](https://img.shields.io/badge/-Jekyll-%23CC0000?style=flat-square&logo=jekyll&logoColor=white&link=http://jekyllrb-ko.github.io/)](http://jekyllrb-ko.github.io/) &nbsp;
